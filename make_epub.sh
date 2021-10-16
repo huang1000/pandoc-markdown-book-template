@@ -1,6 +1,6 @@
 mkdir -p build
 
-pandoc -S \
+pandoc -s \
     --css epub.css \
     --toc -N \
     --epub-embed-font='fonts/*.ttf' \
