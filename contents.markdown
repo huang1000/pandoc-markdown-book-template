@@ -3,6 +3,7 @@
 
 Today, a vast amount of workers are unmotivated. They go to work not because they want to but because they need the money. The work itself is merely a tedious means to a financial end.
 
+
 These blinks explore what makes these workers so unmotivated. Often, it’s a matter of false beliefs. We tend to think that certain perks – like a generous paycheck – will be enough to motivate us to work hard. But in the end we realize that other things – like the meaning of the work we do – are far more important.
 
 In these blinks, you’ll learn
